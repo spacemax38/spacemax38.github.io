@@ -1,3 +1,8 @@
 body {
-    background-color: #2a2a2c;
+    background-color: #ffffff; /* #fffff */
   }
+
+h1.main {
+   color: blue;
+   font-weight: 600;
+}
