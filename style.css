@@ -31,6 +31,11 @@ div.mainBlock {
     padding: 2px;
 }
 
+div.mainBlock a {
+    display: block;
+    text-decoration: none;
+}
+
 div.mainBlock a:hover {
-    color: royalblue;
+    background-color: royalblue;
 }
