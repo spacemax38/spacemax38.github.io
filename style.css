@@ -15,6 +15,11 @@ p.mainText {
     font-family: 'Ubuntu', sans-serif;
     color: #fff;
     font-weight: 450;
+    transition: background-color 2s;
+}
+
+div.mainText:hover {
+    content: "Withered#0008";
 }
 
 p.otherText {
@@ -34,11 +39,6 @@ div.mainBlock {
 div.mainBlock p {
     display: block;
     text-decoration: none;
-    transition: background-color 2s;
-}
-
-div.mainBlock p:hover {
-    content: "Withered#0008";
 }
 
 div.mainBlock:hover {
