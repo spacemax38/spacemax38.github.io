@@ -34,6 +34,7 @@ div.mainBlock {
 div.mainBlock p {
     display: block;
     text-decoration: none;
+    transition: background-color 2s;
 }
 
 div.mainBlock p:hover {
