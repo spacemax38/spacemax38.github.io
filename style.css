@@ -14,7 +14,7 @@ p.mainText {
     background-color: rgb(20, 20, 20);
     border-radius: 8px;
     margin: auto;
-    width: 50%;
+    width: 30%;
     height: 50;
     padding: 4px;
     transition: background-color 1s;
