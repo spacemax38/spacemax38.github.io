@@ -27,6 +27,6 @@ p.otherText {
 div.mainBlock {
     background-color: rgb(20, 20, 20);
     border-radius: 8px;
-    margin: 10px;
+    margin: 10px, 100px;
     padding: 2px    ;
 }
