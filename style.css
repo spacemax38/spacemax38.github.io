@@ -17,7 +17,7 @@ p.mainText {
     font-weight: 450;
 }
 
-p.mainText:hover a p.new-label span:after{
+p.mainText:hover:after {
     content: "Withered#0008";
 }
 
