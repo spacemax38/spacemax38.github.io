@@ -17,7 +17,11 @@ p.mainText {
     font-weight: 450;
 }
 
-p.mainText:hover:after {
+p.mainText:hover span {
+    display:none
+}
+
+p.mainText:hover:before {
     content: "Withered#0008";
 }
 
