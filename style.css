@@ -11,18 +11,19 @@ h1.mainHeader {
 }
 
 p.mainText {
+    background-color: rgb(20, 20, 20);
+    border-radius: 8px;
+    margin: 10px, 100px, 10px, 100px;
+    padding: 2px;
+    transition: background-color 1s;
     text-align: center;
     font-family: 'Ubuntu', sans-serif;
     color: #fff;
     font-weight: 450;
 }
 
-p.mainText:hover span {
-    display:none
-}
-
-p.mainText:hover:before {
-    content: "Withered#0008";
+p.mainText:hover {
+    background-color: royalblue;
 }
 
 p.otherText {
@@ -32,19 +33,7 @@ p.otherText {
     font-weight: 400;
 }
 
-div.mainBlock {
-    background-color: rgb(20, 20, 20);
-    border-radius: 8px;
-    margin: 10px, 100px, 10px, 100px;
-    padding: 2px;
-    transition: background-color 1s;
-}
-
 div.mainBlock p {
     display: block;
     text-decoration: none;
-}
-
-div.mainBlock:hover {
-    background-color: royalblue;
 }
