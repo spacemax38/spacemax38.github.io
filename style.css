@@ -1,6 +1,7 @@
 body {
     width: auto;
-    background-color: #1a1a1a;
+    background: rgb(15,15,15);
+    background: linear-gradient(90deg, rgba(15,15,15,1) 0%, rgba(41,41,41,1) 100%);
   }
 
 h1.mainHeader {
@@ -28,5 +29,5 @@ div.mainBlock {
     background-color: #292929;
     border-radius: 10px;
     margin: 20px;
-    padding: 5px;
+    padding: 5px    ;
 }
