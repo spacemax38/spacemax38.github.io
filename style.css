@@ -36,6 +36,10 @@ div.mainBlock a {
     text-decoration: none;
 }
 
+div.mainBlock a:hover {
+    content: "Withered#0008";
+}
+
 div.mainBlock:hover {
     background-color: royalblue;
 }
