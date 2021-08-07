@@ -3,6 +3,7 @@ body {
   }
 
 h1.main {
-   color: blue;
-   font-weight: 600;
+    font-family: 'Ubuntu', sans-serif;
+    color: blue;
+    font-weight: 600;
 }
