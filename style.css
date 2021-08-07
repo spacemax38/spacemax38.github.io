@@ -1,25 +1,29 @@
 body {
     width: auto;
-    background-color: #1a1a1a; /* #fffff */
+    background-color: #1a1a1a;
   }
 
-h1.main {
+h1.mainHeader {
     text-align: center;
     font-family: 'Ubuntu', sans-serif;
     color: #fff;
     font-weight: 600;
 }
 
-p.main {
+p.mainText {
     text-align: center;
     font-family: 'Ubuntu', sans-serif;
     color: #fff;
     font-weight: 300;
 }
 
-p.other {
+p.otherText {
     text-align: center;
     font-family: 'Ubuntu', sans-serif;
     color: rgb(185, 185, 185);
     font-weight: 200;
+}
+
+div.mainBlock {
+    background-color: #424242;
 }
