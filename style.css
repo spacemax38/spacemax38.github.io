@@ -1,8 +1,10 @@
 body {
+    width: 100%;
     background-color: #ffffff; /* #fffff */
   }
 
 h1.main {
+    text-align: center;
     font-family: 'Ubuntu', sans-serif;
     color: blue;
     font-weight: 600;
