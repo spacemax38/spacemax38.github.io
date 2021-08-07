@@ -30,3 +30,7 @@ div.mainBlock {
     margin: 10px, 100px, 10px, 100px;
     padding: 2px;
 }
+
+div.mainBlock a:hover {
+    color: royalblue;
+}
