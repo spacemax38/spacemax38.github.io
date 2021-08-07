@@ -31,12 +31,12 @@ div.mainBlock {
     padding: 2px;
 }
 
-div.mainBlock a {
+div.mainBlock p {
     display: block;
     text-decoration: none;
 }
 
-div.mainBlock a:hover {
+div.mainBlock p:hover {
     content: "Withered#0008";
 }
 
