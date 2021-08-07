@@ -1,11 +1,25 @@
 body {
     width: 100%;
-    background-color: #ffffff; /* #fffff */
+    background-color: #1a1a1a; /* #fffff */
   }
 
 h1.main {
     text-align: center;
     font-family: 'Ubuntu', sans-serif;
-    color: blue;
+    color: #fff;
     font-weight: 600;
+}
+
+p.main {
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    color: #fff;
+    font-weight: 300;
+}
+
+p.other {
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    color: #fff;
+    font-weight: 200;
 }
