@@ -7,26 +7,26 @@ h1.mainHeader {
     text-align: center;
     font-family: 'Ubuntu', sans-serif;
     color: #fff;
-    font-weight: 600;
+    font-weight: 700;
 }
 
 p.mainText {
     text-align: center;
     font-family: 'Ubuntu', sans-serif;
     color: #fff;
-    font-weight: 300;
+    font-weight: 450;
 }
 
 p.otherText {
     text-align: center;
     font-family: 'Ubuntu', sans-serif;
     color: rgb(185, 185, 185);
-    font-weight: 200;
+    font-weight: 400;
 }
 
 div.mainBlock {
     background-color: rgb(20, 20, 20);
     border-radius: 8px;
-    margin: 10px, 100px;
-    padding: 2px    ;
+    margin: 10px, 100px, 10px, 100px;
+    padding: 2px;
 }
