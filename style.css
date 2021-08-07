@@ -18,6 +18,7 @@ p.mainText {
 }
 
 p.mainText:hover {
+    color: blueviolet;
     content: "Withered#0008";
 }
 
@@ -33,7 +34,7 @@ div.mainBlock {
     border-radius: 8px;
     margin: 10px, 100px, 10px, 100px;
     padding: 2px;
-    transition: background-color 2s;
+    transition: background-color 1s;
 }
 
 div.mainBlock p {
