@@ -36,6 +36,6 @@ div.mainBlock a {
     text-decoration: none;
 }
 
-div.mainBlock a:hover {
+div.mainBlock:hover {
     background-color: royalblue;
 }
