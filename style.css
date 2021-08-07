@@ -35,7 +35,16 @@ p.otherText {
     font-weight: 400;
 }
 
-div.mainBlock p {
+div.centerBlock p {
     display: block;
     text-decoration: none;
+}
+
+div.centerBlock {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
 }
