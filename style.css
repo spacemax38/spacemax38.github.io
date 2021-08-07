@@ -18,7 +18,6 @@ p.mainText {
 }
 
 p.mainText:hover {
-    color: blueviolet;
     content: "Withered#0008";
 }
 
