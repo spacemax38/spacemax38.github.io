@@ -13,7 +13,9 @@ h1.mainHeader {
 p.mainText {
     background-color: rgb(20, 20, 20);
     border-radius: 8px;
-    margin: 10px, 100px, 10px, 100px;
+    margin: auto;
+    width: 50%;
+    height: 30;
     padding: 2px;
     transition: background-color 1s;
     text-align: center;
