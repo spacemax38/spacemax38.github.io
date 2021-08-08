@@ -10,9 +10,7 @@ h1.mainHeader {
     font-weight: 700;
 }
 
-p.button1 {
-    display: block;
-    
+p.button1 {    
     background-color: rgb(25, 25, 25);
     transition: background-color 1.5s;
 
