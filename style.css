@@ -10,7 +10,7 @@ h1.mainHeader {
     font-weight: 700;
 }
 
-p.mainText {
+p.button1 {
     background-color: rgb(25, 25, 25);
     transition: background-color 1.5s;
 
@@ -28,8 +28,8 @@ p.mainText {
     font-weight: 450;
 }
 
-p.mainText:hover {
-    background-color: royalblue;
+p.button1:hover {
+    background-color: rgb(99, 68, 235);
 }
 
 p.otherText {
