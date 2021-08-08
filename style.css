@@ -11,6 +11,8 @@ h1.mainHeader {
 }
 
 p.button1 {
+    display: block;
+    
     background-color: rgb(25, 25, 25);
     transition: background-color 1.5s;
 
