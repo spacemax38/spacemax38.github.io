@@ -37,6 +37,7 @@ p.button1:active {
 }
 
 p.otherText {
+    width: 100%;
     text-align: center;
     font-family: 'Ubuntu', sans-serif;
     color: rgb(185, 185, 185);
