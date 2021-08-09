@@ -28,11 +28,6 @@ p.button1 {
     font-weight: 450;
 }
 
-.div {
-    border-radius: 1px;
-    border-color: red;
-}
-
 p.button1:hover {
     background-color: rgb(126, 54, 219);
 }
