@@ -43,6 +43,8 @@ p.otherText {
     color: rgb(185, 185, 185);
     font-weight: 400;
     margin: 2 auto;
+    border-color: red;
+    border-width: 5px;
 }
 
 div.centerBlock p {
