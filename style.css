@@ -19,8 +19,12 @@ p.button1 {
     line-height: 50px;
 
     border-radius: 8px;
+    border: none;
     margin: auto;
     padding: 4px;
+
+    text-decoration: none;
+    display: inline-block;
 
     text-align: center;
     font-family: 'Ubuntu', sans-serif;
