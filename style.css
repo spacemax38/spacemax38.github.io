@@ -29,7 +29,11 @@ p.button1 {
 }
 
 p.button1:hover {
-    background-color: rgb(99, 68, 235);
+    background-color: rgb(140, 68, 235);
+}
+
+p.button1:active {
+    background-color: rgb(163, 103, 241);
 }
 
 p.otherText {
