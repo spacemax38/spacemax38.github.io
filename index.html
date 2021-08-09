@@ -7,7 +7,6 @@
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap" rel="stylesheet">
-	<script src="script.js" type="text/javascript"></script>
 
 	<title>
 		Max
@@ -31,6 +30,12 @@
 				<p id="roblox-button" class="button1">
 					Roblox Profile
 				</p>
+
+				<script>
+					document.getElementById("roblox-button").onclick = function () {
+						window.open("https://www.roblox.com/users/103804265/profile", '_blank').focus();
+					};
+				</script>
 			</div>
 		</div>
 
