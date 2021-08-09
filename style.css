@@ -42,6 +42,7 @@ p.otherText {
     font-family: 'Ubuntu', sans-serif;
     color: rgb(185, 185, 185);
     font-weight: 400;
+    margin: 2 auto;
 }
 
 div.centerBlock p {
