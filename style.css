@@ -11,6 +11,9 @@ h1.mainHeader {
 }
 
 p.button1 {    
+    text-decoration: none;
+    display: inline-block;
+    
     background-color: rgb(25, 25, 25);
     transition: background-color 0.5s;
 
@@ -22,9 +25,6 @@ p.button1 {
     border: none;
     margin: auto;
     padding: 4px;
-
-    text-decoration: none;
-    display: inline-block;
 
     text-align: center;
     font-family: 'Ubuntu', sans-serif;
