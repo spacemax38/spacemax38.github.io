@@ -33,11 +33,11 @@ p.button1 {
 }
 
 p.button1:hover {
-    background-color: rgb(126, 54, 219);
+    background-color: rgb(50, 170, 255);
 }
 
 p.button1:active {
-    background-color: rgb(181, 132, 247);
+    background-color: rgb(50, 170, 255);
 }
 
 p.otherText {
